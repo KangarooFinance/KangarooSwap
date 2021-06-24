@@ -3,7 +3,7 @@
 🦘KangarooSwap Token -New Amazing defi exchange🦘
 
 
-🦘FairLaunch - 27/06 - 19:00 UTC🦘
+🦘PrivateSale - 01/07 - 19:00 UTC🦘
 
 -Anti Whale
 Transfer more than 1.5% of the total supply will be rejected. As the total supply grows, this ratio will be reduced.
@@ -38,6 +38,6 @@ As we have mentioned above, each transfer of $KGR must pay a 3% transfer tax. Th
 
 📞Telegram: https://t.me/kangarooswapbsc
 
-⏲Countdown: https://www.timeanddate.com/countdown/launch?iso=20210627T19&p0=%3A&msg=KangarooSwap+Launch&font=cursive
+⏲Countdown: https://countingdownto.com/es?c=3674015
 
 📜Join our whitelist: https://forms.gle/xFrQnyMcimFkoUZy6
